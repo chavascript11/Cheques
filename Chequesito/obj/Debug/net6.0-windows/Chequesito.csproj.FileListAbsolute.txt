@@ -1,0 +1,164 @@
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form1.resources
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form2.resources
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\Shava\OneDrive\Desktop\Multiplataforma\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form1.resources
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form2.resources
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CopyComplete
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.CrearCuenta.resources
+C:\Users\Shava\OneDrive\Desktop\MultiplataformaApps\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCuenta.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.CrearCuenta.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form1.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.Form2.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCuenta.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CopyComplete
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Chequesito\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.mainAdmin.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.CrearCuenta.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.Login.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCuenta.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CopyComplete
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.UsuarioMain.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.mainAdmin.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.CrearCuenta.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.Login.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.UsuarioMain.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCuenta.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CopyComplete
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.AgregarBeneficiarios.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.GenerarChequeAdmin.resources
+C:\Users\Shava\OneDrive\Desktop\Chequesito\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCheque.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\Chequesito.exe
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\Chequesito.deps.json
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\Chequesito.runtimeconfig.json
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.AssemblyReference.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.mainAdmin.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.AgregarBeneficiarios.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.CrearCuenta.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.GenerarChequeAdmin.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.Login.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.UsuarioMain.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCheque.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.VerCuenta.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.GenerateResource.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfoInputs.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.AssemblyInfo.cs
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CoreCompileInputs.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.csproj.CopyComplete
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\refint\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.pdb
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.genruntimeconfig.cache
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\ref\Chequesito.dll
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.GenerarChequeUsuario.resources
+C:\Users\rdiaz\OneDrive\Escritorio\Escuela\Sem 8\Aplicaciones multiplataforma\Codigo\Chequesito2\Chequesito\obj\Debug\net6.0-windows\Chequesito.AgregarBeneficiarioUser.resources
